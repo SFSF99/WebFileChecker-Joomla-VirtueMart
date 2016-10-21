@@ -1,5 +1,7 @@
 # WebFileChecker-Joomla-VirtueMart
 
+WebFileChecker extension / module for Joomla-VirtueMart / tool / checks detects modified / hacked files / configuration
+
 (see https://forum.joomla.org/viewtopic.php?f=46&t=937400&p=3436964#p3436964)
 
 E.g. why is there an error suddenly, has somebody files modified / hacked or was there an update from outside, what has a programmer / supplier modified, have you been hacked etc. Solution a Web File Checker / Detector or a Web Hacked Checker / Detector. Check your webstore on or detect modifications and configuration settings.
