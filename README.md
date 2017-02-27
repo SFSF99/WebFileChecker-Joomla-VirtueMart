@@ -2,7 +2,7 @@
 
 WebFileChecker extension / module for Joomla-VirtueMart / tool / checks detects modified / hacked files / configuration
 
-(see https://forum.joomla.org/viewtopic.php?f=46&t=937400&p=3436964#p3436964 or email below)
+(see https://forum.joomla.org/viewtopic.php?f=46&t=937400&p=3436964#p3436964 or the special email address below for some questions)
 
 (more info about this module in <a href="https://www.ooawebstore.eu">webstore</a>)
 
