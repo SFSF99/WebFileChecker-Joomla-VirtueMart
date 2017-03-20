@@ -48,3 +48,10 @@ Extension history:
 
 Such a script was there already for OsCommerce (but more extensive). I tried then in 2013 to find such scripts for other webshops but nothing found. Then I found a snippet on the internet how you could easily determine if programs (files) were changed and used this for the WebFileChecker.
 
+----------------------------------------------------------------------------------------------
+
+20/03/2017
+
+Problem: sometimes "require('../../' . 'configuration.php');" does not work.
+
+Replace with: "require(dirname(dirname(dirname(__ FILE __))) . '/configuration.php');" (no spaces around FILE)
