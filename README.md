@@ -1,4 +1,4 @@
-# WebFileChecker-Joomla-VirtueMart
+# WebFileChecker-Joomla-VirtueMart ("Web File Checker")
 
 WebFileChecker extension / module for Joomla-VirtueMart / tool / checks detects modified / hacked files / configuration
 
